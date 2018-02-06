@@ -1,0 +1,11 @@
+[package]
+name = "sample"
+version = "0.1.0"
+authors = ["Calvin Karundu <calvin.mwenda@gmail.com>"]
+
+[dependencies]
+clap = "2.29.2"
+reqwest = "0.8.4"
+serde_json = "1.0.9"
+serde = "1.0"
+serde_derive = "1.0"
